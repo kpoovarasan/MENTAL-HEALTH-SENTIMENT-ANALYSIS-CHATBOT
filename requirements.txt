@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+transformers
+textblob
+nltk
+nest_asyncio
